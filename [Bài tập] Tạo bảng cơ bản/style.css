@@ -1,0 +1,38 @@
+body{
+    margin: 0 auto;
+    border: 0 auto;
+    width: 700px;
+
+}
+h1{
+    text-align: center;
+    color: #0000ff;
+}
+.header{
+    color: #0000ff79;
+    margin: 0 auto;
+    font-size: 20px;
+    line-height: 28px;
+}
+.l1 {
+    float: left;
+}
+.l2 {
+    float: right;
+}
+tbody{
+    text-align: center;
+}
+table{
+    border-collapse: collapse;
+    margin: 0 auto;
+    width: 600px;
+    height: 180px;
+    font-size: 20px;
+}
+#dong1{
+    background-color: yellow;
+}
+#dong2{
+    background-color: orange;
+}
